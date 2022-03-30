@@ -1,4 +1,4 @@
-# Hi there, I'm Andres Soca ![LinkedIn](https://www.linkedin.com/in/andres-soca-23852aab/) ![AngelList](https://angel.co/u/andres-s-1)
+# Hi there, I'm Andres Soca [LinkedIn](https://www.linkedin.com/in/andres-soca-23852aab/) [AngelList](https://angel.co/u/andres-s-1)
 
 - I love anything outdoors, martial arts and of course writing code for hours without blinking because im passionately focused
 - I am currently finishing the App Academy Full Stack Software Engineer program
