@@ -5,7 +5,7 @@
 - I am looking to collaborate on new and exciting projects aimed to better the world and the people in it as well expand my knowledge through networking
 - Feel free to reach out! Email 💌: lumen.development01@gmail.com
 
-### Checkout my most recent project: [Artsy🎨](https://artsy-2022.herokuapp.com/sign-up)
+### OH! Checkout my most recent project: [Artsy🎨](https://artsy-2022.herokuapp.com/sign-up)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
