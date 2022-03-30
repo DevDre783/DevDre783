@@ -1,4 +1,4 @@
-# Hi there, I'm Andres Soca :wave: [LinkedIn](https://www.linkedin.com/in/andres-soca-23852aab/) [AngelList](https://angel.co/u/andres-s-1)
+# Hi there, I'm Andres Soca :wave: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-soca-23852aab/) ![Microsoft](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![apple](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 - I love anything outdoors, martial arts and of course writing code for hours without blinking because im passionately focused
 - I am currently finishing the App Academy Full Stack Software Engineer program
