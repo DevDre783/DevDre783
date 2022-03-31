@@ -1,3 +1,5 @@
+![ Alt text](https://media.giphy.com/media/5OW9D8sfzccttn3MwL/giphy.gif)
+
 # Hi there! I'm Andres Soca :wave: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-soca-23852aab/) [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/andres-s-1) ![Microsoft](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![apple](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
