@@ -7,6 +7,8 @@
 - I am currently finishing the App Academy Full Stack Software Engineer program
 - I am looking to collaborate on new and exciting projects aimed to better the world and the people in it as well expand my knowledge through networking
 - Feel free to reach out! Email 💌: lumen.development01@gmail.com
+- Check out my [Personal Site !](https://devdre783.github.io/)
+
 
 ### OH! Checkout my most recent project: [Artsy🎨](https://artsy-2022.herokuapp.com/sign-up)
 
