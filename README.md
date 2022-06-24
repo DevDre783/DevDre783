@@ -4,7 +4,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DevDre783)
 
 - I love anything outdoors, martial arts and of course writing code for hours without blinking because im passionately focused
-- I am currently finishing the App Academy Full Stack Software Engineer program
+- I am also a Game Developer in Javascript games and C# games via Unity Engine
+- I am graduate from the App Academy Full Stack Software Engineer program
 - I am looking to collaborate on new and exciting projects aimed to better the world and the people in it as well expand my knowledge through networking
 - Check out my [Personal Site !](https://devdre783.github.io/)
 - Feel free to reach out! Email 💌: lumen.development01@gmail.com
